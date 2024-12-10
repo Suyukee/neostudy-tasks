@@ -1,0 +1,9 @@
+{
+	"name": "neostudy-tasks",
+	"version": "1.0.0",
+	"description": "1. HTML/CSS\r 2. JavaScript",
+	"workspaces": [
+		"packages/*",
+		"services/*"
+	]
+}
